@@ -1,2 +1,4 @@
 # coders-14
-#this is code for multiplication
+# This is code for multiplication
+# This is code for subtraction
+# This is code for addition
